@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @clarebeany
-- 👀 I’m interested in chess, motorcycles, long boarding, and spikeball.
-- 🌱 I’m currently learning front-end web development. 
-- 💞️ I’m looking to collaborate on projects in JavaScript and learning C#.
+- 👀 I’m interested in motorcycles.
+- 🌱 I’m a Data Engineer.
+- 💞️ I’m looking to learn stuff.
 - 📫 How to reach me: clarebeany@gmail.com.
 
 <!---
