@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @clare
 - 👀 I’m interested in motorcycles.
-- 🌱 I’m a backend developer.
-- 💞️ I’m looking to expand my side projects.
+- 🌱 My primary experience is in typescript, node.js, graphql, and vue.js.
+- 💞️ Currently working to expand my side projects.
 - 📫 How to reach me: hi.midnightsloth@gmail.com.
 
 <!---
